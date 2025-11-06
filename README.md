@@ -32,12 +32,18 @@ Experiential Perspective Prompt:
 >  “From a student’s perspective, describe the challenges of online learning.”
 
 Everyday Functioning Prompts:
-*	  “Describe the role of machine learning in everyday apps like YouTube or Netflix."
-*	 	“How is encryption used in daily life when sending WhatsApp messages?”
+*	  “How does predictive maintenance in a smart factory work similarly to how modern cars alert drivers about required servicing?”
+*	  An everyday analogy connecting IoT-based monitoring with consumer experiences.
 
 Universal Prompt Structures:
-^ 	“Explain [concept] in simple terms with an example.”
-^  “Explain the process of [task] step by step.”
+## Definition:
+*     Prompts that can universally apply to multiple contexts or subjects using reusable templates.
+
+### Prompt Example:
+*     “Explain the process of implementing an IoT-based smart manufacturing system step-by-step with a real-world example.”
+
+### Expected Output:
+*     A clearly structured explanation suitable for learners or professionals.
 
 Prompt Size Limitations:
 &  	“Translate this 5000-word essay into Tamil.”
@@ -45,6 +51,7 @@ Prompt Size Limitations:
 &  “Give me 50 examples of AI applications.”
 → Adjust for size: “Give me 10 AI applications at a time.”
 
+<img width="925" height="682" alt="image" src="https://github.com/user-attachments/assets/dbfae50c-2b71-41d9-88e4-8ea9c8c69c07" />
 
 
 # Result: The various types of Prompts are executed successfully with generated the report.
